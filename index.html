@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" dir="rtl">
+<html lang="en" dir="ltl">
 
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - DevFolio Bootstrap Template</title>
+  <title>AbdulrahmanKhulaidi</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -79,11 +79,11 @@
           </li> -->
           
 
-          <li>
+          <!-- <li>
             <a href="#" onclick="toggleLanguage()">
               <i class="bi bi-translate"></i> <span id="lang-btn">EN</span>
             </a>
-          </li>
+          </li> -->
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
@@ -954,7 +954,8 @@
   <script src="assets/js/main.js"></script>
 
   <script>
-    let currentLang = localStorage.getItem('lang') || 'ar';
+    let currentLang = 'en';
+    // let currentLang = localStorage.getItem('lang') || 'ar';
   
     async function loadLanguage(lang) {
       const response = await fetch(`assets/lang/${lang}.json`);
