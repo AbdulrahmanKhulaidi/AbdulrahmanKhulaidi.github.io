@@ -1,0 +1,32 @@
+{
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "intro": "Hi, I'm Abdulrahman",
+    "developer": "Mobile and Web Developer",
+    "welcome_message": "Welcome",
+    "profession": ["Mobile App Developer", "Web Developer"],
+    "services_title": "My Services",
+    "services_description": "A collection of high-quality tech services I provide.",
+    "web_dev_title": "Web Development",
+    "web_dev_description": "Creating responsive, professional websites using modern technologies.",
+    "mobile_app_title": "Mobile App Development",
+    "mobile_app_description": "Designing and developing standout apps for Android and iOS platforms.",
+    "stats_clients": "Clients",
+  "stats_projects": "Projects",
+  "stats_support": "Hours Of Support",
+  "stats_awards": "Awards",
+  "portfolio_title": "Portfolio",
+  "portfolio_description": "A selection of my recent work and projects.",
+  "portfolio_item_single_store_title": "Single Vendor E-Commerce Store",
+  "portfolio_item_single_store_desc": "An e-commerce platform designed for a single vendor to showcase and sell products directly.",
+  "portfolio_item_multi_vendor_title": "Multi-Vendor E-Commerce Platform",
+  "portfolio_item_multi_vendor_desc": "A complete system that supports multiple vendors to showcase and sell products in one place.",
+  "portfolio_item_cyber_complaint_title": "Cyber Extortion Complaints Platform",
+  "portfolio_item_cyber_complaint_desc": "An application for securely and easily reporting cyber extortion cases."
+
+
+  }
+  
